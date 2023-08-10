@@ -1,0 +1,8 @@
+<Html>
+<Body Background="Huhuhu.gif">
+<marquee><H1><Font Color="Purple">Welcome Badboy 888888888</font></H1></marquee>
+<HR>
+<BR>
+<Center><H1><IMG src="D.jpg." Width=400 Height=650></center></h1>
+</Html>
+</Body>
